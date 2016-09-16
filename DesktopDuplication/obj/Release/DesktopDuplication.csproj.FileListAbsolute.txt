@@ -1,0 +1,11 @@
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\bin\Release\DesktopDuplication.dll
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\bin\Release\DesktopDuplication.pdb
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\bin\Release\SharpDX.dll
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\bin\Release\SharpDX.DXGI.dll
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\bin\Release\SharpDX.xml
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\bin\Release\SharpDX.DXGI.xml
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\obj\Release\DesktopDuplication.csprojResolveAssemblyReference.cache
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\obj\Release\DesktopDuplication.dll
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\desktop-duplication-net-master\DesktopDuplication\obj\Release\DesktopDuplication.pdb
